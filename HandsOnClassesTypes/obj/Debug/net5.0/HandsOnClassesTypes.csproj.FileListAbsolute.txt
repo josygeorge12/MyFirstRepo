@@ -1,0 +1,16 @@
+G:\Capg_Programs\C#\HandsOnClassesTypes\obj\Debug\net5.0\HandsOnClassesTypes.csproj.AssemblyReference.cache
+G:\Capg_Programs\C#\HandsOnClassesTypes\obj\Debug\net5.0\HandsOnClassesTypes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Capg_Programs\C#\HandsOnClassesTypes\obj\Debug\net5.0\HandsOnClassesTypes.AssemblyInfoInputs.cache
+G:\Capg_Programs\C#\HandsOnClassesTypes\obj\Debug\net5.0\HandsOnClassesTypes.AssemblyInfo.cs
+G:\Capg_Programs\C#\HandsOnClassesTypes\obj\Debug\net5.0\HandsOnClassesTypes.csproj.CoreCompileInputs.cache
+G:\Capg_Programs\C#\HandsOnClassesTypes\bin\Debug\net5.0\HandsOnClassesTypes.exe
+G:\Capg_Programs\C#\HandsOnClassesTypes\bin\Debug\net5.0\HandsOnClassesTypes.deps.json
+G:\Capg_Programs\C#\HandsOnClassesTypes\bin\Debug\net5.0\HandsOnClassesTypes.runtimeconfig.json
+G:\Capg_Programs\C#\HandsOnClassesTypes\bin\Debug\net5.0\HandsOnClassesTypes.runtimeconfig.dev.json
+G:\Capg_Programs\C#\HandsOnClassesTypes\bin\Debug\net5.0\HandsOnClassesTypes.dll
+G:\Capg_Programs\C#\HandsOnClassesTypes\bin\Debug\net5.0\ref\HandsOnClassesTypes.dll
+G:\Capg_Programs\C#\HandsOnClassesTypes\bin\Debug\net5.0\HandsOnClassesTypes.pdb
+G:\Capg_Programs\C#\HandsOnClassesTypes\obj\Debug\net5.0\HandsOnClassesTypes.dll
+G:\Capg_Programs\C#\HandsOnClassesTypes\obj\Debug\net5.0\ref\HandsOnClassesTypes.dll
+G:\Capg_Programs\C#\HandsOnClassesTypes\obj\Debug\net5.0\HandsOnClassesTypes.pdb
+G:\Capg_Programs\C#\HandsOnClassesTypes\obj\Debug\net5.0\HandsOnClassesTypes.genruntimeconfig.cache
