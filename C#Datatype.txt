@@ -1,0 +1,95 @@
+C# variable
+<data-type> variable_name=value;
+-starts with alphabet and underscore
+-should include alphabet and numbers
+-should not be the keyword
+-variable name should be unique
+
+C# Datatypes
+==============
+As per memory allocation
+1.value types(stack memory)
+	a.Primitive types
+		byte(1)
+		short(2)
+		int(4)
+		long(8)
+		float(4)
+		double(8)
+		decimal(16)
+		char(2)
+		bool(1)
+	b.Nullable types
+	c.Structures
+	d.Enums
+*****
+Value datatype are fixed in their size
+Reference datatypes are dynamic in size
+
+2.Reference types(heap memory)
+	String
+	class
+	arrays
+	objects
+*****************************
+C# operators
+1.Arthematic operators
++,-,/,%,++,--
+2.Relational
+==,>=,<=,<,>,!=
+3.Assignment operators
+=,+=,-=,*=,/=
+4.Logical operator
+&&,||,!
+?:(ternary operator)
+. access class members
+[] array index operator
+() casting
+
+int a=10;
+int b=20;
+int max=a==b?a:b;
+Console.WriteLine(max);
+Console.WriteLine("In {0} and {1}{2} is maximum",a,b,max);
+
+int n=12;
+string result=n%2==0?"Even":"Odd";
+Console.WriteLine("{0} is {1},"n,result);
+
+1.create a C# class file and declare variable of diff datatypes,assign the values and print the value of and every variable
+*****************
+Conditional Statements
+1.Simple if
+if(condition)
+{
+//statements
+}
+2.if-else
+if(condition)
+{
+//stmt
+}
+else
+{
+//stmt
+}
+==============
+nested if
+if-else-if
+switch
+while
+do-while
+for
+foreach is more flexible,when using in collections used only for reading.
+We can't use operations, for that use for loop.
+****************
+Arrays
+1.A array is a collection of values of same-type.
+2.Arrays are not dynamic in size(fixed size)
+3.Syntax:
+<Data_type>[] var_name=new <data-type>[size];
+Datatype is either value type or reference type.
+ex:int,string,char,double
+
+int[] numbers=new int[4];
+string[] names=new string[5];
